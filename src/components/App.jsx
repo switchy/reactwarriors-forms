@@ -15,8 +15,7 @@ export default class App extends React.Component {
       agree: true,
       avatar: "",
       age: 17,
-      errors : {},
-      _step: 1
+      errors : {}
     };
   };
 
